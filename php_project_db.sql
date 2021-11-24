@@ -1,4 +1,3 @@
-CREATE DATABASE php_project;
 USE php_project;
 
 drop table if exists post_tag;
